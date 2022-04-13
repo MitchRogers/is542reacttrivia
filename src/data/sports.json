@@ -1,0 +1,38 @@
+[
+    {
+        "difficulty": "easy",
+        "question": "Which team did Michael Jordan lead to six NBA championships?",
+        "correct": "Chicago Bulls",
+        "incorrect": ["Washington Wizards", "Charlotte Hornets", "Los Angeles Lakers"]
+    },
+    {
+        "difficulty": "easy",
+        "question": "Which sport does not play on a field?",
+        "correct": "Basketball",
+        "incorrect": ["Football", "Baseball", "Soccer"]
+    },
+    {
+        "difficulty": "medium",
+        "question": "Which two teams are tied for the most NBA championships in league history?",
+        "correct": "Lakers and Celtics",
+        "incorrect": ["Lakers and Bulls", "Celtics and Bulls", "Spurs and Bulls"]
+    },
+    {
+        "difficulty": "medium",
+        "question": "Which spot in the batting order is referred to as the \"Cleanup\" hitter?",
+        "correct": "4th",
+        "incorrect": ["3rd", "5th", "9th"]
+    },
+    {
+        "difficulty": "hard",
+        "question": "Who won the 2022 Masters?",
+        "correct": "Scottie Scheffler",
+        "incorrect": ["Dustin Johnson", "Bryson DeChambeau", "Rory McIlroy"]
+    },
+    {
+        "difficulty": "hard",
+        "question": "Who was the first Father-Son duo to hit back-to-back homers in the MLB?",
+        "correct": "Ken Griffey Sr and Ken Griffey Jr",
+        "incorrect": ["Vlademir Guerrero Sr and Vladimir Guerrero Jr", "Larry Bonds and Barry Bonds", "Dale Berra and Yogi Berra"]
+    }
+]
