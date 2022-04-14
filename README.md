@@ -1,4 +1,29 @@
-# Getting Started with Create React App
+<!-- 
+    NAME: Trivia Game
+    AUTHOR: Mitch Rogers
+    DESCRIPTION: I built a trivia game in HTML, CSS, JavaScript, and React. Before doing this 
+                 project I had no professional experience in React development and have enjoyed
+                 learning few of its many features. I focused on the easy to use animations and
+                 transition features that React offers with useSpring, useEffect, and Bootstrap. 
+                 
+                 A pretty simple directory was built out after creating the app (create-react-app)
+                 and most of the app came preconfigured. I added some organization to the src
+                 directory with a folder holding all React components and a folder holding my data
+                 is json format. I would have liked to implement a feature for the user to use in order to submit their own category and quiz questions and answers. I realized a little into it that it would be too big for the scope of this project. 
+
+                 When the user visits the website they'll be prompted to pick a category in which they can answer some trivia questions. I pre-populated the game to have four categories to choose from. As the user navigates through the site, each React component is called and presented. As they answer the questions, they are given the correct/incorrent response in real time. I use state throughout the project and specifically to keep track of how many questions the player has answered correctly. 
+
+                 Once they have finished the chosen category questions. They are directed to the result component and leaderboard to view their results. 
+
+                 Future implementations: 
+                    -   I would really like to add the ability for a user to submit a category and the minimum of 6 questions and answers and have it loaded onto the site. It would take their inputs and format them into a json file in the data dir.
+                    -   I couldn't get a side panel effect for the leaderboard. I was trying to implement this feature using a react component but could not. I elected to use CSS to create a simple dropdown leader score on the results page. I would like to get the panel working with leaders from all categories. I will need to study a bit more on the use and movement of state. 
+                    -   Lastly, I would've liked to implement a timer animation for each question. I think it would add style and make it feel more game-like. 
+                 
+
+-->
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +92,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
